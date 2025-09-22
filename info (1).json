@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO47B0140E2D497C6A","24090RA29G7E4AFF29B05EF9CA"],
    "expiry": "30-09-2025 12:00 PM"
 },
+   "testingagus": {
+   "password": "$2y$12$1p1b0nx7cVtXM7NXRk1F/O.cXZIPflnFL3vyr2QA6oU46aDJX5Coy",
+   "devices": ["SM-A305FD4BA499DEAFF8FC1"],
+   "expiry": "22-10-2025 12:59 PM"
+},
 }
