@@ -1,9 +1,4 @@
 {
-"testing009": {
-   "password": "$2y$12$TQQAum7Fy0yVMIYAE6kEFeNIWEE9A7yDWVIRVE3MtmRiT5WrOUX1i",
-   "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
-   "expiry": "30-11-2025 12:00 PM"
-},
    "mujangtest1": {
    "password": "$2y$12$3y0Pi08EWMkgq1Xpefmj3.aIPb2EWfQ7h7Xg0SnKawCIll6e.CN2u",
    "devices": ["24090RA29G7E4AFF29B05EF9CA"],
