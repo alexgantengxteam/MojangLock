@@ -9,4 +9,9 @@
    "devices": ["SM-A305FD4BA499DEAFF8FC1"],
    "expiry": "22-10-2025 12:59 PM"
 },
+   "debidebi": {
+   "password": "$2y$12$gVJ8TkopdOBhyesniuC9z.n3sb7FtR/t4ucv3UEgyQr/q8zgfvkKO",
+   "devices": ["SM-M205G4D08AFC7FC51B9A3"],
+   "expiry": "23-10-2025 12:00 PM"
+},
 }
