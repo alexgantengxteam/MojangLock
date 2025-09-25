@@ -1,23 +1,7 @@
 {
-   "mujangtest1": {
-   "password": "$2y$12$3y0Pi08EWMkgq1Xpefmj3.aIPb2EWfQ7h7Xg0SnKawCIll6e.CN2u",
-   "devices": ["24090RA29GA68F2C1CC1297518"],
-   "expiry": "30-09-2025 12:00 PM"
-},
-   ""febry2501": {
-   "password": "$2y$12$fiKYTc6e7u0uB1Fch6kiGuUs00IlxbWF/Tco.5A4AEXuHpZDW3tfi",
+   "febry2501": {
+   "password": "$2y$12$jPFwivnizllCJ9A19V2kxuwhZUkL7j3dJtjegvgtwJ1w0SCsVMyyK",
    "devices": ["SM-A305FD4BA499DEAFF8FC1","SM-A305F26624AA503EC74B2"],
    "expiry": "25-10-2025 12:59 PM"
 },
-   "debidebi": {
-   "password": "$2y$12$gVJ8TkopdOBhyesniuC9z.n3sb7FtR/t4ucv3UEgyQr/q8zgfvkKO",
-   "devices": ["SM-M205G4D08AFC7FC51B9A3"],
-   "expiry": "23-10-2025 12:00 PM"
-},
-   "awaludin01": {
-   "password": "$2y$12$vmKL5wnXh55u8jQriPawouNMpO3gVqnXk1Ri.vgzSoaoFrFjpXiPS",
-   "devices": ["SM-A035FADE9277709EB9C2C"],
-   "expiry": "23-10-2025 12:00 PM"
-},
-}
-
+   
