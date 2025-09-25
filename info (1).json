@@ -1,7 +1,7 @@
 {
    "mujangtest1": {
    "password": "$2y$12$3y0Pi08EWMkgq1Xpefmj3.aIPb2EWfQ7h7Xg0SnKawCIll6e.CN2u",
-   "devices": ["24090RA29GA68F2C1CC1297518","REDMINOTE9PRO47B0140E2D497C6A","24090RA29G7E4AFF29B05EF9CA"],
+   "devices": ["24090RA29GA68F2C1CC1297518"],
    "expiry": "30-09-2025 12:00 PM"
 },
    "testingagus": {
