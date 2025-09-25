@@ -4,10 +4,10 @@
    "devices": ["24090RA29GA68F2C1CC1297518"],
    "expiry": "30-09-2025 12:00 PM"
 },
-   "testingagus": {
-   "password": "$2y$12$1p1b0nx7cVtXM7NXRk1F/O.cXZIPflnFL3vyr2QA6oU46aDJX5Coy",
-   "devices": ["SM-A305FD4BA499DEAFF8FC1"],
-   "expiry": "22-10-2025 12:59 PM"
+   ""febry2501": {
+   "password": "$2y$12$fiKYTc6e7u0uB1Fch6kiGuUs00IlxbWF/Tco.5A4AEXuHpZDW3tfi",
+   "devices": ["SM-A305FD4BA499DEAFF8FC1","SM-A305F26624AA503EC74B2"],
+   "expiry": "25-10-2025 12:59 PM"
 },
    "debidebi": {
    "password": "$2y$12$gVJ8TkopdOBhyesniuC9z.n3sb7FtR/t4ucv3UEgyQr/q8zgfvkKO",
