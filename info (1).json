@@ -1,4 +1,9 @@
 {
+   "alexmojang": {
+   "password": "$2y$12$fKODl1mFM8ZBRYI2IzQqDe0aPUSx7Hk.LPRSVOANQDLU6JYjb27Qi",
+   "devices": ["24090RA29GA68F2C1CC1297518"],
+   "expiry": "01-09-2026 12:00 PM"
+},
    "pebry123": {
    "password": "$2y$12$JH8nq9oc.Vc5PsUrSIjxJO0tP6digN2lWsP1TJn2mC0Ip9lC67QdW",
    "devices": ["SM-A305F26624AA503EC74B2"],
