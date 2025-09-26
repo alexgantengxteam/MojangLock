@@ -21,7 +21,7 @@
 },
    "ANAS1234": {
    "password": "$2y$12$kaXgaIcezoKocAg9.1yKb.2a6yljKUg75laBjtSvsN3oisOjEEEDK",
-   "devices": ["SM-A035FEDE4D296F9F860E8","SM-A055FD4EA528556052819","SM-A065FA0239554468D25B5"],
+   "devices": ["SM-A035FEDE4D296F9F860E8"],
    "expiry": "26-10-2025 12:00 PM"
 },
 }
