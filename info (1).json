@@ -9,5 +9,10 @@
    "devices": ["SM-A305F26624AA503EC74B2"],
    "expiry": "25-10-2025 12:00 PM"
 },
+   "TOMY1234": {
+   "password": "$2y$12$f3ZG3dVHvahwfQJaaBBDJOgDFG8E8W/upLv4pwSmaKijc0vcdQRfS",
+   "devices": ["SM-A055FD4EA528556052819"],
+   "expiry": "26-10-2025 12:00 PM"
+},
 }
    
