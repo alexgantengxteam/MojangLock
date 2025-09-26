@@ -14,5 +14,10 @@
    "devices": ["SM-A055FD4EA528556052819"],
    "expiry": "26-10-2025 12:00 PM"
 },
+   "HENGKY1234": {
+   "password": "$2y$12$MWMTykIFDmjcJkeWowmdsObLXS9kJKgRPojK5t9FoobATkoTaq.Im",
+   "devices": ["SM-A055FD4EA528556052819","SM-A065FA0239554468D25B5"],
+   "expiry": "26-10-2025 12:00 PM"
+},
 }
    
