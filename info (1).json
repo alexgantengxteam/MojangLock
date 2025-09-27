@@ -24,5 +24,10 @@
    "devices": ["SM-A035FEDE4D296F9F860E8"],
    "expiry": "26-10-2025 12:00 PM"
 },
+   "ISMAIL1234": {
+   "password": "$2y$12$5AS0F8ljgwcO0HR0/HeC2.fF97mhFTB6HkS7CYZC1aSc96kgZelqe",
+   "devices": ["SM-A055F970D004497465551"],
+   "expiry": "27-10-2025 12:00 PM"
+},
 }
    
