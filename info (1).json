@@ -29,5 +29,10 @@
    "devices": ["SM-A055F970D004497465551"],
    "expiry": "27-10-2025 12:00 PM"
 },
+   "RAHMAT1234": {
+   "password": "$2y$12$bwIDZHUG/HI9RFAFaNo06ejuNk1ZvArAK2emqx3sfee6KjmuAwm8K",
+   "devices": ["SM-A055F970D004497465551","SM-A055F0A7153D1683A65B7"],
+   "expiry": "27-10-2025 12:00 PM"
+},
 }
    
