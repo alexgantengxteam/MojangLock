@@ -1,4 +1,4 @@
-{
+⁷{
    "alexmojang": {
    "password": "$2y$12$fKODl1mFM8ZBRYI2IzQqDe0aPUSx7Hk.LPRSVOANQDLU6JYjb27Qi",
    "devices": ["24090RA29GA68F2C1CC1297518"],
@@ -32,6 +32,11 @@
    "RAHMAT1234": {
    "password": "$2y$12$bwIDZHUG/HI9RFAFaNo06ejuNk1ZvArAK2emqx3sfee6KjmuAwm8K",
    "devices": ["SM-A055F970D004497465551","SM-A055F0A7153D1683A65B7"],
+   "expiry": "27-10-2025 12:00 PM"
+},
+   "IDHAM1234": {
+   "password": "$2y$12$SnAdrmXAHNo0f.030um.auDOwaNtSxiy5KZpEFGdtF4qVJ6xC2KY6",
+   "devices": ["SM-A055F970D004497465551","SM-A055F0A7153D1683A65B7","SM-A055F992EAAFF30C25E21"],
    "expiry": "27-10-2025 12:00 PM"
 },
 }
